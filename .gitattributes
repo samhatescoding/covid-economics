@@ -3,6 +3,7 @@
 
 # Mark code languages
 *.sql linguist-language=SQL
+*.sql linguist-detectable=true
 
 # Mark data and generated files to be ignored by Linguist language stats
 *.csv linguist-documentation
