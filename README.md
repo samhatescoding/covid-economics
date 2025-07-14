@@ -80,18 +80,6 @@ Economy/
 
 ---
 
-## Preview
-
-### Correlation Between U.S. Economic Factors
-
-![correlation-matrix](images/c18f5497-5f75-4783-b3f4-354450e78ea1.png)
-
-### Stock Growth Pre vs Post COVID
-
-![stock-growth](images/6f32091e-b840-4505-ba0c-91cbda739fdc.png)
-
----
-
 ## Sources
 
 - [World Bank Databank](https://databank.worldbank.org/)
