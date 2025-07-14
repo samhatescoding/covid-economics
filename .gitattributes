@@ -1,13 +1,21 @@
 # Normalize all text files to LF (Unix) line endings
 * text=auto eol=lf
 
-# Mark SQL files explicitly for syntax highlighting
+# Mark code languages
 *.sql linguist-language=SQL
+
+# Mark data and generated files to be ignored by Linguist language stats
 *.csv linguist-documentation
 *.pdf linguist-documentation
 *.mwb linguist-generated
+*.bak linguist-generated
+*.mwb.bak linguist-generated
+
+# Docs and text files
+*.md text
 
 # Images
 *.png binary
 *.jpg binary
 *.jpeg binary
+
