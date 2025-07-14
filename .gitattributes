@@ -3,23 +3,9 @@
 
 # Mark SQL files explicitly for syntax highlighting
 *.sql linguist-language=SQL
-
-# CSV files are plain text
-*.csv text
-
-# MySQL Workbench files (binary format)
-*.mwb binary
-
-# Ignore diff for backup files
-*.bak binary
-*.mwb.bak binary
-
-# Markdown and documentation files
-*.md text
-*.pdf binary
-
-# Treat R scripts as source code (if added later)
-*.R linguist-language=R
+*.csv linguist-documentation
+*.pdf linguist-documentation
+*.mwb linguist-generated
 
 # Images
 *.png binary
