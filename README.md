@@ -1,5 +1,5 @@
 
-# global-economic-impact-db
+# covid-economics
 
 This repository contains my final project for a Databases class taken at the University of Barcelona in 2023. The project consists of MySQL database schema, queries, and analysis for a comprehensive examination of global economic trends and the impact of COVID-19 on various economic indicators. Correlations between stock prices and macroeconomic variables across five countries are also explored.
 
