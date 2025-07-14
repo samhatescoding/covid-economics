@@ -1,0 +1,27 @@
+# Normalize all text files to LF (Unix) line endings
+* text=auto eol=lf
+
+# Mark SQL files explicitly for syntax highlighting
+*.sql linguist-language=SQL
+
+# CSV files are plain text
+*.csv text
+
+# MySQL Workbench files (binary format)
+*.mwb binary
+
+# Ignore diff for backup files
+*.bak binary
+*.mwb.bak binary
+
+# Markdown and documentation files
+*.md text
+*.pdf binary
+
+# Treat R scripts as source code (if added later)
+*.R linguist-language=R
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
